@@ -5,5 +5,5 @@
 <p align="center">
   <img src="desktop.png" width="400" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="android.png" width="600" />
+  <img src="android.png" width="800" />
 </p>
